@@ -1,4 +1,4 @@
-[![MasterHead](https://initiate.alphacoders.com/images/728/cropped-1500-500-728101.png?1769)](https://https://remmyomejedev.netlify.app/)
+[![MasterHead](https://initiate.alphacoders.com/images/728/cropped-1500-500-728101.png?1769)](https://remmyomejedev.netlify.app/)
 <h1 align="center">Hi 👋, I'm Omeje Remmy</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47h6ozmw3og5f7z71jrblgispdnl7gy31mvu9cyew0&rid=giphy.gif&ct=g">
