@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remmy-coder&label=Profile%20views&color=0e75b6&style=flat" alt="remmy-coder" /> </p>
 
-- 🔭 I’m currently working on **Raw Material Inventory System**
+- 🔭 I’m currently working on **Developing System Softwares with Rust**
 
-- 🌱 I’m currently learning **docker**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **react, nestjs, node, git, typeorm and typescript.**
+- 💬 Ask me about **react, nestjs, node, git, typeorm, typescript, docker, k8s, LLMs, and unix**
 
 - 📫 How to reach me **remmy.ro@gmail.com**
 
